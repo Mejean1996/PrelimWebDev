@@ -1,0 +1,98 @@
+body{
+    background-color:blue;
+    
+}
+.wrapall{
+    background-color:skyblue;
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+    height: 610px;
+    border-top-left-radius: 2pc;
+    border-top-right-radius: 2pc;
+    border-bottom-left-radius: 2pc;
+    border-bottom-right-radius: 2pc;
+   
+    
+}
+.logo{
+    background-color: darkviolet;
+    width:99%;
+    height: 100px;
+    float:right;
+    border-top-left-radius: 2pc;
+    border-top-right-radius: 2pc;
+    text-align:center;
+    color:white;
+  
+    
+}
+.nav{
+    background-color:green;
+    width:99%;
+    height: 50px;
+    float:right;
+    margin-bottom: 3px;
+    text-align:center;
+    color:white;
+   
+    
+}
+.content{
+    width:99%;
+    height: 400px;
+    float:right;
+    margin-bottom: 3px;
+}
+.search{
+    width:19%;
+    height: 200px;
+    background-color:lightblue;
+    float:right;
+    margin-bottom: 3px;
+    text-align:center;
+    
+    
+}
+.banner{
+    width:20%;
+    height: 200px;
+    background-color:darkorange;
+    float:right;
+    margin-bottom: 3px;
+    
+    
+    
+}
+.sidenav{
+    width:22%;
+    height: 400px;
+    background-color:orange;
+    float:left;
+    margin-bottom: 3px;
+     text-align:center;
+   color:white;
+}
+.categories{
+    width:38%;
+    height: 400px;
+    background-color:yellow;
+    float:left;
+    margin-right: 3px;
+    text-align:center;
+    color:white;
+    
+}
+.footer{
+    background-color:darkblue;
+    width:99%;
+    height: 50px;
+    float:right;
+    border-bottom-left-radius: 2pc;
+    border-bottom-right-radius: 2pc;
+   margin-bottom: 3px;
+    text-align:center;
+   color:white;
+}
+
+   
